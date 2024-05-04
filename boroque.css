@@ -16,6 +16,20 @@ img:hover{
     transform: scale(1.1);
     cursor: pointer;
 }
+#button{
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+button{
+height: 50px;
+width: 100px;
+font-size: large;
+font-weight: bold;
+background-color: black;
+}
+
   .container {
     display: flex;
     align-items: center;
@@ -74,19 +88,5 @@ img:hover{
   }
 
 
-#button{
-    text-align: center;
-    margin: 20px;
-    padding: 20px;
- }
-
- button{
-  height: 50px;
-  width: 100px;
-  font-size: large;
-  font-weight: bold;
-  background-color: black;
- }
-
-
+  
   
